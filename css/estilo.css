@@ -1,0 +1,21 @@
+/* Comentario em css */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(167, 140, 140) !important;
+}
+
+#container { 
+    background-color: #a1a1a1;
+    width: 75%;
+    margin: 0 auto;
+}
+
+input[type="text"] {
+    color: rgb(255, 1, 255);
+}
