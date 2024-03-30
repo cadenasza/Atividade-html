@@ -93,6 +93,7 @@ input[type="text"] {
     display: inline;
     margin-right: 10px;
     background-color: white;
+    font-weight: bold;
 }
 
 .tit-sec ul li {
@@ -108,3 +109,4 @@ h1 {
 h2 {
     font-family: sans-serif;
 }
+
