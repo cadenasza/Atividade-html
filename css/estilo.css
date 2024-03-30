@@ -119,3 +119,7 @@ form {
     border-color: gray;
     padding: 10px;
 }
+
+p {
+    color: rgb(1, 87, 1);
+}
