@@ -115,7 +115,7 @@ h2 {
 }
 
 form {
-    border: solid 1px;
+    border: 1px solid;
     border-color: gray;
     padding: 10px;
 }
@@ -127,4 +127,8 @@ p {
 button {
     background-color: blue;
     color: white;
+}
+
+footer {
+    border-top: 2px solid red;
 }
