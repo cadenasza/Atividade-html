@@ -77,10 +77,6 @@ body {
     background-color: red;
 } */
 
-input[type="text"] {
-    color: rgb(255, 1, 255);
-}
-
 .cabecalho {
     background-color: blue;
     color: #fff;
@@ -116,4 +112,10 @@ h2 {
 
 #conteudo {
     line-height: 1.5;
+}
+
+form {
+    border: solid 1px;
+    border-color: gray;
+    padding: 10px;
 }
