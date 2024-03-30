@@ -82,14 +82,10 @@ input[type="text"] {
 }
 
 .cabecalho {
-    background-color: #333;
+    background-color: blue;
     color: #fff;
     padding: 10px;
     text-align: center;
-    background-image: url("../img/img-01-banner-1280x568.png");
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
     
 }
 
