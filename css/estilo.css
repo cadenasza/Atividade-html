@@ -123,3 +123,8 @@ form {
 p {
     color: rgb(1, 87, 1);
 }
+
+button {
+    background-color: blue;
+    color: white;
+}
